@@ -1,0 +1,53 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+#JAVA
+*.class
+*/.classpath/
+
+.project
+!/.gitignore
+*/bin/
+*/target/
+*/build/
+*/out/
+settings.gradle
+
+# Log file
+*.log
+
+# Package Files #
+.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+#INTELLIJ IDEA
+# User-specific stuff:
+*.idea/
+*.iml
+
+#ECLIPSE
+*.classpath
+
+#Serenity
+build/
+.gradle/
+out/
+.settings/
+
+#specific files
+*.lock
