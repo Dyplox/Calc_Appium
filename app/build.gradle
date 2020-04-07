@@ -23,11 +23,11 @@ apply plugin: 'net.serenity-bdd.aggregator'
 
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
-dependencies {
+dependencies {git
     compile group: 'net.serenity-bdd', name: 'serenity-core', version: '2.0.41'
     compile group: 'net.serenity-bdd', name: 'serenity-screenplay', version: '2.0.41'
     compile group: 'net.serenity-bdd', name: 'serenity-screenplay-webdriver', version: '2.0.41'
-    compile group: 'net.serenity-bdd', name: 'serenity-junit', version: '2.0.41'
+    compile group: 'net.serenity-bdd', name: 'serenity-junit', version: '2.0.41'git 
     compile group: 'net.serenity-bdd', name: 'serenity-cucumber', version: '1.9.31'
     compile group: 'org.slf4j', name: 'slf4j-simple', version: '1.7.7'
 
